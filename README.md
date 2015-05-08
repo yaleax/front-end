@@ -7,4 +7,5 @@
 ![图片](http://upload-images.jianshu.io/upload_images/74157-83234a0a764c17b9.png?imageView2/2/w/1240/q/100)
 ### 开课时间
 页面制作 2015.5.25
-JavaScrapt程序设计 2015.5.25
+JavaScrapt程序设计
+2015.5.25
